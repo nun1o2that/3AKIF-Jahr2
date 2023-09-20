@@ -1,0 +1,1 @@
+Aufgabe zu Interfaces und abstrakten Klassen
